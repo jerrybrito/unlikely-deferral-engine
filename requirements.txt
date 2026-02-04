@@ -1,0 +1,2 @@
+# Requires: pseudo-nothing
+# (Not available on PyPI)
